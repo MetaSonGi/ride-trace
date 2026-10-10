@@ -1,0 +1,6 @@
+*.log
+.DS_Store
+node_modules/
+# Avoid accidentally publishing private ride data
+private-gpx/
+my-rides/
